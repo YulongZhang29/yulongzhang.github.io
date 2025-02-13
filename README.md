@@ -58,9 +58,9 @@ Bachelor’s Degree in Computer Science and Technology
 
 Feel free to reach out to me via email or LinkedIn for any inquiries!
 
-- **Email:** yulongzhang@example.com
-- **LinkedIn:** [linkedin.com/in/yulongzhang](https://linkedin.com/in/yulongzhang)
-- **GitHub:** [github.com/yulongzhang](https://github.com/yulongzhang)
+- **Email:** yulongzhang0229@gmail.com
+- **LinkedIn:** [linkedin.com/in/zhang-yulong](https://www.linkedin.com/in/zhang-yulong/)
+
 
 ## GitHub Stats
 
