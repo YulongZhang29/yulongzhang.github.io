@@ -1,18 +1,17 @@
 # Yulong Zhang 👋
 
-Welcome to my GitHub profile! I am a Senior Application Engineer at Advantest with a focus on V93000 and Power Analog Controller (PAC) systems, specializing in high-performance testing platforms for the automotive sector. I am passionate about improving test solutions and mentoring junior engineers.
+Welcome to my GitHub profile! I'm technical lead and project manager for V93000 Power Analog Controller(PAC) applications. +10 years ATE industry experience with proven expertise indesigning test programs, position Advantest’s V93000 as the preferred solutionin competitive evaluations in key account. Leading teams to develop complexand high-performance testing solutions for automotive and power managementdevices. An international professional with excellent teamwork skills, a passionfor learning, and a problem-solving mindset.
 
 ## Professional Experience
 
 ### Advantest | *2019 – Present*  
 **Senior Application Engineer**
 
-- Lead a team of engineers to develop test programs and strategies for high-performance testing platforms such as V93000 and PAC.
-- Designed and implemented testing solutions for automotive power analog systems, particularly for RF and HPC devices.
-- Collaborate closely with product development teams to enhance test coverage, speed, and accuracy for complex semiconductor devices.
-- Act as a technical lead, guiding and mentoring junior engineers in developing their expertise in ATE systems and test program development.
-- Successfully contributed to the adoption of new testing methods, leading to a 20% improvement in test throughput.
-- Played a critical role in the launch of new test methodologies tailored for automotive sector clients, ensuring compliance with industry standards.
+- Technical Lead for strategic V93000 projects, driving test program developmentfor SMT7, SMT8, and T2000 with a focus on technical excellence and innovation.
+- Partner with hardware teams to refine test strategies for critical analog ICs andintegrate loadboards to meet automotive power analog testing requirements.
+- Manage project execution, ensuring high-quality solutions within defined timelineswhile providing expert technical support to clients.
+- Actively contribute to pre-sales efforts and benchmarks by understanding customerneeds and presenting tailored solutions that highlight Advantest’s strengths.
+- Mentored +10 junior engineers, fostering technical expertise, collaboration, andcontinuous improvement.
 
 ### Flex (Flextronics) | *2015 – 2019*  
 **Senior ATE Development Engineer**
@@ -58,7 +57,7 @@ Bachelor’s Degree in Computer Science and Technology
 
 Feel free to reach out to me via email or LinkedIn for any inquiries!
 
-- **Email:** yulongzhang0229@gmail.com
+- **Email:** zhangyulong0229@gmail.com
 - **LinkedIn:** [linkedin.com/in/zhang-yulong](https://www.linkedin.com/in/zhang-yulong/)
 
 
