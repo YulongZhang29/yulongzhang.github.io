@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am a Senior Application Engineer at Advantest wi
 - Successfully contributed to the adoption of new testing methods, leading to a 20% improvement in test throughput.
 - Played a critical role in the launch of new test methodologies tailored for automotive sector clients, ensuring compliance with industry standards.
 
-### Flex (Teradyne) | *2015 – 2019*  
+### Flex (Flextronics) | *2015 – 2019*  
 **Senior ATE Development Engineer**
 
 - Specialized in ATE (Automated Test Equipment) systems, including V93000 and CS990 series.
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am a Senior Application Engineer at Advantest wi
 - Collaborated with cross-functional teams to deliver high-quality test solutions, reducing test time by 15% on average.
 - Conducted training sessions for junior engineers, fostering a culture of continuous learning and knowledge sharing.
 
-### Flex (Teradyne) | *2014 – 2015*  
+### Flex (Flextronics) | *2014 – 2015*  
 **Software Quality Engineer**
 
 - Ensured the integrity and functionality of test software by performing thorough quality assurance and validation processes.
@@ -38,13 +38,13 @@ Bachelor’s Degree in Computer Science and Technology
 
 ## Skills
 
-- **Test Systems:** V93000, PAC, ATE development, RF and HPC test systems
-- **Languages & Tools:** Uflex, Java, SmarTest8, TestStand, LabVIEW
+- **Test Systems:** V93000, PAC, ATE development
 - **Project Management:** Team leadership, mentoring, client communication
 - **Areas of Expertise:** Power analog testing, automotive electronics, test automation
 
 ## Certifications
 
+- Project management
 - Certified LabVIEW Developer (CLD)
 - Test Program Development for ATE Systems (Advantest Certified)
 
